@@ -1,10 +1,1 @@
-
-
-# Marjuk Ahmad
-I am an entrepreneur based out of Bangladesh. 
-I am going to help a lot of people doing the following things. 
-
-1. Help them build their website. 
-2. Create an identity in the web. 
-
-Learn more about me from [here] (https://www.marjuk.com)
+I don't understand why things are not happening the way they are supposed to be happening. In what context, things do have to change for me to write this gibberish post. 
