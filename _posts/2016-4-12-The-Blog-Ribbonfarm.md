@@ -14,7 +14,7 @@ If you want some reading inspiration, check out the Now Reading page, where I tr
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "random image to see how image wroks in markdown")
 
-2. These are resources to create an easy jekyll blog. 
+These are resources to create an easy jekyll blog. 
 
 * Excellent blog post written by Barry Clark. <https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/> 
 * An example blog created in Jekyll  <https://zachholman.com> 
