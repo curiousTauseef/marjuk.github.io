@@ -3,7 +3,7 @@ layout: post
 title: Blogs and Beyond
 ---
 
-1. I came across learning about this interesting blog called Ribbonfarm <http://www.ribbonfarm.com/>, started by Venkatesh Rao. The blog pursues unusal takes in familiar themes. If you get fascinated learning about how the systems work, this is the right place for you. Let me inform you with the words of Venkatesh Rao: 
+I came across learning about this interesting blog called Ribbonfarm <http://www.ribbonfarm.com/>, started by Venkatesh Rao. The blog pursues unusal takes in familiar themes. If you get fascinated learning about how the systems work, this is the right place for you. Let me inform you with the words of Venkatesh Rao: 
 
 
 > Welcome to Ribbonfarm. This blog is devoted to refactored perception. That’s not exactly a helpful phrase, but think of it as an ongoing exploration of new perspectives for familiar things. The easiest way to get oriented is to dive right in.
