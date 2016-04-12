@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The World of Blogs
+title: Blogs and Beyond
 ---
 
 1. I came across learning about this interesting blog called Ribbonfarm <http://www.ribbonfarm.com/>, started by Venkatesh Rao. The blog pursues unusal takes in familiar themes. If you get fascinated learning about how the systems work, this is the right place for you. Let me inform you with the words of Venkatesh Rao: 
